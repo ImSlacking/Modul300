@@ -9,8 +9,8 @@
 
 ### TO DO LIST
 
-- [x] Install a Linux VM on Oracle
-- [x] Auto install a linux VM over Vagrant
+- [X] Install a Linux VM on Oracle
+- [X] Auto install a linux VM over Vagrant
 
 <br>
 
@@ -18,7 +18,7 @@
 <br>
 
 - [ ] Apache Webserver automation
-- [x] Start the documentation for the Modul
+- [X] Start the documentation for the Modul
 
 ---
 
