@@ -24,7 +24,7 @@
 
 ### Code
 
-```
+```python
 import pyautogui
 import keyboard
 import time
