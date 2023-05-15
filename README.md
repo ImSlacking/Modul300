@@ -9,8 +9,8 @@
 
 ### TO DO LIST
 
-- [&check] Install a Linux VM on Oracle
-- [&check] Auto install a linux VM over Vagrant
+- [x] Install a Linux VM on Oracle
+- [x] Auto install a linux VM over Vagrant
 
 <br>
 
