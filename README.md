@@ -30,7 +30,7 @@ import keyboard
 import time
 
 while 1:
-    pyautogui.write("Tell me")
+    pyautogui.write("Python easy")
     pyautogui.press("enter")
     time.sleep(0.5)
 ```
