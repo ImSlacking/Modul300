@@ -9,7 +9,7 @@
 
 ### TO DO LIST
 
-- [x] Install a Linux VM on Oracle
+- [_x_] Install a Linux VM on Oracle
 - [x] Auto install a linux VM over Vagrant
 
 <br>
