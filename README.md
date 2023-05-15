@@ -1,7 +1,7 @@
 # Modul 300
 ## Dokumentation
 
-<p1> Noch keine Doku vorhanden :skull: </p1>
+Noch keine Doku vorhanden :skull:
 ---
 
 ###  Dokumentation der Aufgabe
