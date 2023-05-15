@@ -1,4 +1,4 @@
-# __Modul 300__
+# Modul 300
 ## Dokumentation
 
 ---
@@ -8,8 +8,6 @@
 ...
 
 ### TO DO LIST
-
----
 
 - Install a Linux VM on Oracle
 - Auto install a linux VM over Vagrant
@@ -21,3 +19,18 @@
 
 - Apache Webserver automatisieren
 - Start the documentation for the Modul
+
+---
+
+### Code
+
+```
+import pyautogui
+import keyboard
+import time
+
+while 1:
+    pyautogui.write("Tell me")
+    pyautogui.press("enter")
+    time.sleep(0.5)
+```
