@@ -33,5 +33,4 @@ while 1:
     pyautogui.write("Python easy")
     pyautogui.press("enter")
     time.sleep(0.5)
-    test.show("Test")
 ```
