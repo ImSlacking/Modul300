@@ -3,7 +3,7 @@
 
 ###  Dokumentation der Aufgabe
 
-##### Noch keine Doku vorhanden :skull:
+##### Noch keine Doku vorhanden
 
 ---
 
