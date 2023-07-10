@@ -49,3 +49,19 @@ Vagrant.configure("2") do |config|
 end
 ```
 
+## Zweck dieses Codes
+
+Bei diesem Vagrantfile wird zuerst die VM ganz gewohnt installiert und danach wird bei mit der unten angezeigten Linie Apache2 installiert.
+```
+      sudo apt-get update
+      sudo apt-get install -y apache2
+      sudo apt-get install -y libapache2-mod-proxy-html
+      sudo apt-get install -y libxml2-dev
+```
+Danach muss noch ein proxy installiert werden, damit wie im vorherigen Kapiteln beschrieben die Proxy und nicht die Clients direkt angesprochen werden:
+```
+      sudo a2enmod proxy
+      sudo a2enmod proxy_html
+      sudo a2enmod proxy_http
+```
+Nun müssen noch Firewall regeln hinzugefügt werden, damit diese auch nach aussen kommunizieren kann.
